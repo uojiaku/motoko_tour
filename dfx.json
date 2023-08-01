@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "canisters": {
+    "comments": {
+      "type": "motoko",
+      "main": "src/comments.mo"
+    },
+    "strings": {
+      "type": "motoko",
+      "main": "src/strings.mo"
+    },
+    "booleans": {
+      "type": "motoko",
+      "main": "src/booleans.mo"
+    },
+    "integers": {
+      "type": "motoko",
+      "main": "src/integers.mo"
+    },
+    "boundedintegers": {
+      "type": "motoko",
+      "main": "src/boundedintegers.mo"
+    },
+    "options": {
+      "type": "motoko",
+      "main": "src/options.mo"
+    }
+
+  }
+}
