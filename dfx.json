@@ -24,6 +24,10 @@
     "options": {
       "type": "motoko",
       "main": "src/options.mo"
+    },
+    "char_text_iter": {
+      "type": "motoko",
+      "main": "src/char_text_iter.mo"
     }
 
   }
